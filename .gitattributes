@@ -1,0 +1,3 @@
+# normaliza los fines de linea a LF en el repositorio
+* text=auto eol=lf
+*.png binary
